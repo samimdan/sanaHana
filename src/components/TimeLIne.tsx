@@ -76,10 +76,10 @@ export default function TimeLIne() {
 const PStyled = styled(motion.p)`
   font-size: 2.2rem;
   font-family: "Novable";
-  padding: 1rem;
+  padding: 0.5;
 `;
 const AStyled = styled(motion.a)`
   font-size: 1.7rem;
   font-family: "Novable";
-  padding: 1rem;
+  padding: 0.5;
 `;

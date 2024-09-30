@@ -2,3 +2,7 @@
   font-family: "Novable";
   src: url("./fonts/NobleSerenityLine-Black.woff") format("woff");
 }
+@font-face {
+  font-family: "NovableBold";
+  src: url("./fonts/NobleSerenity-Black.woff") format("woff");
+}
