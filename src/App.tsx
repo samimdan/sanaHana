@@ -6,6 +6,7 @@ import styled from "styled-components";
 import TimeLIne from "./components/TimeLIne";
 import DescriptionBox from "./components/DescriptionBox";
 import Gallery from "./components/Gallery";
+import TimesLine from "./components/timesLine";
 function App() {
   return (
     <>
@@ -20,6 +21,7 @@ function App() {
       </div>
       <DescriptionBox />
       <Gallery />
+      <TimesLine />
     </>
   );
 }
