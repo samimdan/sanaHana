@@ -2,7 +2,7 @@ import React from "react";
 import SanaMoji from "../assets/SanaMoji";
 export default function NavBar() {
   return (
-    <div className="">
+    <div className="w-full mx-auto  ">
       <SanaMoji />
       <ul className="w-full flex gap-16 text-white  justify-center ">
         <li>HOME</li>

@@ -29,7 +29,7 @@ export default function TimesLine() {
             <time className="font-[NovableBold] text-[2rem]  pb-2 italic">
               4:40
             </time>
-            <div className="card bg-base-100 w-[34rem] shadow-xl">
+            <div className="card bg-base-100  shadow-xl">
               <figure>
                 <img src={craft} alt="Shoes" />
               </figure>
@@ -67,7 +67,7 @@ export default function TimesLine() {
             <time className="font-[NovableBold] text-[2rem]  p-2 italic">
               5:00
             </time>
-            <div className="card bg-base-100 w-[34rem] shadow-xl">
+            <div className="card bg-base-100  shadow-xl">
               <div className="card-body">
                 <StyledH1 className="card-title">Supper </StyledH1>
                 <StyledP>Supper Time !</StyledP>
@@ -99,7 +99,7 @@ export default function TimesLine() {
             <time className="font-[NovableBold] text-[2rem]  p-4 italic">
               6:00 - 10:00
             </time>
-            <div className="card bg-base-100 w-[34rem] shadow-xl">
+            <div className="card bg-base-100  shadow-xl">
               <div className="card-body">
                 <StyledH1 className="card-title">Dance </StyledH1>
                 <StyledP>Dancing Time !</StyledP>

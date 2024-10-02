@@ -33,7 +33,7 @@ export default function Heart(props: SVGMotionProps<SVGSVGElement>) {
       <motion.path
         fill="none"
         stroke="red"
-        strokeWidth="5"
+        strokeWidth={props.width}
         strokeLinecap="round"
         strokeMiterlimit="10"
         variants={heartVariants}
